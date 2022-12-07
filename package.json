@@ -2,10 +2,10 @@
   "name": "node_db",
   "version": "1.0.0",
   "description": "",
-  "main": "delete_do.js",
+  "main": "rubbil_prac.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node delete_do.js"
+    "start": "node rubbil_prac.js"
   },
   "keywords": [],
   "author": "",

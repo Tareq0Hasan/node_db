@@ -14,8 +14,8 @@ const update_doc= {
             name:'Tareq Hasan'
        },
 };
-
-const res= await coll.updateMany(filt,update_doc,option);
+//const res= await coll.updateOne(filt,update_doc,option); //for single data update
+const res= await coll.updateMany(filt,update_doc,option); // for multiple data update
 console.log(`${res.matchedCount} document match the filter, updated ${res.modifiedCount}`);
 
 }catch(error){
