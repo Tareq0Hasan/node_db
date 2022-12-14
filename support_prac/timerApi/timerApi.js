@@ -1,6 +1,6 @@
 
 
-let count =0;
+/* let count =0;
 
 function tim_ap(){
 count++;
@@ -13,5 +13,5 @@ if(count==5){
 }
 
 const aet_id= setInterval(tim_ap,1000);
-
+*/
 
